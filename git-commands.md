@@ -85,4 +85,4 @@ g
 - https://[PAT]@github.com/[github_username]//[project_name]
 
  To update the remote url:
- - git remote set-url origin 
+ - git remote set-url origin    
